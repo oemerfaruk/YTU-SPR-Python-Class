@@ -16,3 +16,4 @@ Bu repo Yıldız Teknik Üniversitesi Uzay Fiziği Araştırma Grubu python ders
 
 ### Doküman
 + [İstihza](https://python-istihza.yazbel.com/)
++ [W3Schools](https://www.w3schools.com/)
