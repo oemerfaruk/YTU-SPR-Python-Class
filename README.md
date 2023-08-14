@@ -6,15 +6,13 @@ Bu repo Yıldız Teknik Üniversitesi Uzay Fiziği Araştırma Grubu python ders
 
 ### İndirmeler
 
-[Python](https://www.python.org/) : https://www.python.org/
-
-[Anaconda Navigator](https://anaconda.org/) : https://anaconda.org/
++ [Python](https://www.python.org/)
++ [Anaconda Navigator](https://anaconda.org/)
 
 ### Tarayıcı
 
-[Google Colab](https://colab.research.google.com/)
-
-[Jupyter Try](https://jupyter.org/try-jupyter)
++ [Google Colab](https://colab.research.google.com/)
++ [Jupyter Try](https://jupyter.org/try-jupyter)
 
 ### Doküman
-https://python-istihza.yazbel.com/
++ [İstihza](https://python-istihza.yazbel.com/)
